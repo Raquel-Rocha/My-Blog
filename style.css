@@ -1,0 +1,11 @@
+html {
+  margin: 30px 200px 100px 200px;
+  padding: 0;
+  text-align: justify;
+}
+
+img {
+  width: 1020px;
+  height: 200px;
+  border-radius: 3px;
+}
